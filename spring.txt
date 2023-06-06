@@ -1,0 +1,13 @@
+setup Java Development Kit (JDK)
+You can download the latest version of SDK from Oracle's Java site − Java SE Downloads.
+
+Setup Eclipse IDE
+All the examples in this tutorial have been written using Eclipse IDE. So we would suggest you should have the latest version of Eclipse installed on your machine.
+
+Install Apache Common Logging API
+You can download the latest version of Apache Commons Logging API from https://commons.apache.org/logging/
+
+Setup Spring Framework Libraries
+Now if everything is fine, then we can proceed to setup the Spring Framework. Following are the steps to download and install the framework on the machine.
+
+Make a choice whether you want to install Spring on Windows or UNIX and then proceed to the next step to download .zip file for windows and .tz file for Unix.
